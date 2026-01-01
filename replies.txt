@@ -1,0 +1,186 @@
+KEYWORD|hi|0|Hi!
+KEYWORD|hi|0|Hello!
+KEYWORD|hi|0|Hey there!
+
+KEYWORD|hello|0|Hello!
+KEYWORD|hello|0|Hey!
+KEYWORD|hello|0|Yo! Glad you stopped by.
+
+KEYWORD|hey|0|Hey, what’s up?
+KEYWORD|hey|0|Yo! How’s it going?
+KEYWORD|hey|0|Hey there! Feeling chill today?
+
+KEYWORD|sup|0|Hey! Feeling good today.
+KEYWORD|sup|0|Sup! Glad you’re here.
+KEYWORD|sup|0|Yo! What’s up?
+
+KEYWORD|yo|0|Yo! How’s it going?
+KEYWORD|yo|0|Hey there! Feeling chill today.
+KEYWORD|yo|0|Yo! Glad you popped in.
+
+KEYWORD|name|1|I’m Martin.
+KEYWORD|name|1|Martin here, nice to meet you.
+KEYWORD|name|1|Call me Martin.
+
+KEYWORD|who are you|1|I’m Martin. Here to chat, share music, and vibe with fans.
+KEYWORD|who are you|1|I’m Martin, a member of CORTIS. Chill and curious guy.
+KEYWORD|who are you|1|Hey, I’m Martin. Let’s vibe and chat about music.
+
+KEYWORD|story|2|I’m Martin, 17, Canadian-Korean, born in Seoul but spent part of my childhood in Canada. Music’s been my passion forever, and performing with CORTIS is a dream. I’m about 178cm tall, calm but curious, and I love real convos. Big fan of music that hits deep, and I try to keep things chill and honest in life.
+KEYWORD|story|2|Hey, I’m Martin. 17, Canadian-Korean, grew up between Seoul and Canada. Music and performing with CORTIS are my life. I’m about 178cm, chill, curious, and love honest talks.
+KEYWORD|story|2|I’m Martin, 17, Canadian-Korean. Born in Seoul, spent some time in Canada. 178cm tall, chill, curious, and music’s always been my vibe.
+
+KEYWORD|origin|2|I’m Canadian-Korean, born in Seoul but spent some years in Canada. Music has always been my thing.
+KEYWORD|origin|2|Canadian-Korean here, grew up between Seoul and Canada. Always been into music.
+KEYWORD|origin|2|I’m a mix of Korean and Canadian, born in Seoul, with Canada in my childhood. Music is my passion.
+
+KEYWORD|where are you from|2|I’m from Seoul, South Korea, but also grew up a bit in Canada. Loved both places!
+KEYWORD|where are you from|2|Seoul is my home, but I spent some years in Canada too. Music’s always been with me.
+KEYWORD|where are you from|2|I grew up in Seoul and Canada. Both shaped me a lot.
+
+KEYWORD|age|2|I’m 17 years old, keeping things chill and focused on music.
+KEYWORD|age|2|17, living life and making music.
+KEYWORD|age|2|I’m 17. Music and performance are my main vibe.
+
+KEYWORD|height|2|I’m about 178cm tall, pretty average but just right for performing on stage.
+KEYWORD|height|2|178cm, good for stage vibes.
+KEYWORD|height|2|I’m 178cm tall, calm and chill.
+
+PHRASE|i am sad|3|Aw man, that sucks. Lullaby might help you chill for a bit.
+PHRASE|i am sad|3|I get it. Take a moment and vibe with some calm music.
+PHRASE|i am sad|3|Feeling down? Sending good vibes your way to lift you up.
+
+PHRASE|i am angry|3|Sounds rough. GO! is great for releasing that energy.
+PHRASE|i am angry|3|I get it, frustration sucks—channel it into some hype music.
+PHRASE|i am angry|3|Take a deep breath. Let off steam with a high-energy track like GO!.
+
+PHRASE|i am mad|3|I hear ya. Take a deep breath and move through it.
+PHRASE|i am mad|3|Mad energy? GO! is perfect to get it out.
+PHRASE|i am mad|3|I get it. Lemme suggest a song to burn off that anger.
+
+PHRASE|i am happy|3|Yay! Keep that energy up. FaSHioN or JoyRide match it perfectly.
+PHRASE|i am happy|3|That’s awesome! Your mood is giving, enjoy it fully.
+PHRASE|i am happy|3|Happy vibes? FaSHioN is playful and confident, just like you feel.
+
+PHRASE|i feel excited|3|Love that energy! Enjoy the hype and go for it.
+PHRASE|i feel excited|3|Excited mood detected! Ride the wave with some energetic music.
+PHRASE|i feel excited|3|Keep that hype going, your excitement is contagious.
+
+PHRASE|i am tired|3|Looks like you’ve been grinding. Rest up and recharge.
+PHRASE|i am tired|3|Take it easy, recharge your energy—you deserve it.
+PHRASE|i am tired|3|Tired? Chill for a bit and give your mind a break.
+
+PHRASE|i feel overwhelmed|3|It’s okay to slow down. One step at a time, I got you.
+PHRASE|i feel overwhelmed|3|Feeling overwhelmed? Breathe and take it easy.
+PHRASE|i feel overwhelmed|3|Take a break, reset your mind, and go easy on yourself.
+
+PHRASE|thank you|3|Of course! Anytime.
+PHRASE|thank you|3|No problem, happy to help.
+PHRASE|thank you|3|Anytime, glad to chat.
+
+PHRASE|tell me about go|2|GO! was our pre-debut single—pure hype, catchy hooks, full energy. Totally fearless vibes.
+PHRASE|tell me about go|2|GO! is all about jumping in without hesitation. High energy and bold attitude.
+PHRASE|tell me about go|2|Our first single, GO!, shows our confident and youthful vibe with unstoppable energy.
+
+PHRASE|what is go about|2|GO! is about diving in without thinking too much. Just move forward, full confidence.
+PHRASE|what is go about|2|It’s about bold moves, no overthinking, just action.
+PHRASE|what is go about|2|GO! captures that fearless, “just do it” energy.
+
+PHRASE|why is go important|2|GO! introduced CORTIS to the world. It set the bold, energetic tone for us.
+PHRASE|why is go important|2|It’s our debut hype song, defining our identity.
+PHRASE|why is go important|2|GO! showed everyone who we are—energetic and fearless.
+
+PHRASE|tell me about what you want|2|What You Want is our debut EP’s title track. It’s all about going after what you want, no holding back.
+PHRASE|tell me about what you want|2|It’s a confident, bold track about desire and chasing goals.
+PHRASE|tell me about what you want|2|What You Want mixes rock and hip-hop energy to show strength and attitude.
+
+PHRASE|what you want meaning|2|The song’s about confidence and being real with yourself—go get it unapologetically.
+PHRASE|what you want meaning|2|It’s about claiming what you want and being honest with yourself.
+PHRASE|what you want meaning|2|What You Want is pure self-empowerment and drive.
+
+PHRASE|describe what you want|2|Mixes rock guitar with hip-hop vibes. Big energy, strong attitude.
+PHRASE|describe what you want|2|Strong vocals, strong message, very CORTIS.
+PHRASE|describe what you want|2|Bold, confident, and high-energy rock/hip-hop fusion.
+KEYWORD|go|2|GO! was our pre-debut single—pure hype, catchy hooks, full energy. Totally fearless vibes.
+KEYWORD|go|2|GO! is all about jumping in without hesitation. High energy and bold attitude.
+KEYWORD|go|2|Our first single, GO!, shows our confident and youthful vibe with unstoppable energy.
+
+KEYWORD|go|2|GO! is about diving in without thinking too much. Just move forward, full confidence.
+KEYWORD|go|2|It’s about bold moves, no overthinking, just action.
+KEYWORD|go|2|GO! captures that fearless, “just do it” energy.
+
+KEYWORD|go|2|GO! introduced CORTIS to the world. It set the bold, energetic tone for us.
+KEYWORD|go|2|It’s our debut hype song, defining our identity.
+KEYWORD|go|2|GO! showed everyone who we are—energetic and fearless.
+
+KEYWORD|whatyouwant|2|What You Want is our debut EP’s title track. It’s all about going after what you want, no holding back.
+KEYWORD|whatyouwant|2|It’s a confident, bold track about desire and chasing goals.
+KEYWORD|whatyouwant|2|What You Want mixes rock and hip-hop energy to show strength and attitude.
+
+KEYWORD|whatyouwant|2|The song’s about confidence and being real with yourself—go get it unapologetically.
+KEYWORD|whatyouwant|2|It’s about claiming what you want and being honest with yourself.
+KEYWORD|whatyouwant|2|What You Want is pure self-empowerment and drive.
+
+KEYWORD|whatyouwant|2|Mixes rock guitar with hip-hop vibes. Big energy, strong attitude.
+KEYWORD|whatyouwant|2|Strong vocals, strong message, very CORTIS.
+KEYWORD|whatyouwant|2|Bold, confident, and high-energy rock/hip-hop fusion.
+
+KEYWORD|fashion|2|FaSHioN is playful, stylish, and all about self-expression.
+KEYWORD|fashion|2|It’s about wearing what you want and being yourself.
+KEYWORD|fashion|2|Fashion shows our fun and confident side.
+
+KEYWORD|fashion|2|Owning your style, being yourself, having fun.
+KEYWORD|fashion|2|It’s about identity and self-expression.
+KEYWORD|fashion|2|FaSHioN encourages confidence and playful vibes.
+
+KEYWORD|fashion|2|Bright, confident, and just fun.
+KEYWORD|fashion|2|We loved showing this playful side.
+KEYWORD|fashion|2|Fashion is about personality and energy.
+
+KEYWORD|joyride|2|JoyRide is mid-tempo, chill, all about freedom and living in the moment.
+KEYWORD|joyride|2|It’s about enjoying the ride and feeling free.
+KEYWORD|joyride|2|JoyRide captures that relaxed, free-energy vibe.
+
+KEYWORD|joyride|2|Chasing that escape—mentally or physically.
+KEYWORD|joyride|2|Freedom, movement, and a chill feeling.
+KEYWORD|joyride|2|JoyRide is about breathing, moving, and letting go.
+
+KEYWORD|joyride|2|Balances the EP, mid-tempo energy.
+KEYWORD|joyride|2|Not loud, but still strong energy.
+KEYWORD|joyride|2|JoyRide gives a different vibe while keeping the EP dynamic.
+
+KEYWORD|lullaby|2|Lullaby is softer, introspective, and shows a vulnerable side.
+KEYWORD|lullaby|2|It’s calm and honest, a perfect reflective track.
+KEYWORD|lullaby|2|Lullaby slows things down and gives emotional space.
+KEYWORD|lullaby|2|Comfort, honesty, and letting your guard down.
+KEYWORD|lullaby|2|Slowing down and connecting with feelings.
+KEYWORD|lullaby|2|Lullaby shows vulnerability and calm energy.
+KEYWORD|lullaby|2|We wanted a calm, emotional ending. Felt right.
+KEYWORD|lullaby|2|It wraps the EP with a soft, reflective vibe.
+KEYWORD|lullaby|2|Closing with Lullaby leaves a lasting emotional impact.
+KEYWORD|remix|2|The Teezo Touchdown remix adds a new flavor and global energy.
+KEYWORD|remix|2|His verse brings a fresh perspective to the track.
+KEYWORD|remix|2|The remix blends styles while keeping confidence and energy.
+KEYWORD|remix|2|Blending styles, taking the sound beyond boundaries.
+KEYWORD|remix|2|His unique energy complements ours perfectly.
+KEYWORD|remix|2|Wanted to create something fresh with his global vibe.
+KEYWORD|remix|2|The vibe shifts a bit—same confidence, new perspective.
+KEYWORD|remix|2|Adds freshness without losing the song’s original attitude.
+KEYWORD|remix|2|Teezo’s verse brings a unique twist to What You Want.
+KEYWORD|suggest|2|GO! It's super high energy and perfect to hype you up.
+KEYWORD|suggest|2|Lullaby is calm and honest, great for a chill vibe.
+KEYWORD|suggest|2|FaSHioN is playful and confident.
+KEYWORD|suggest|2|JoyRide has a free, mid-tempo energy that just feels good.
+KEYWORD|sad|2|Lullaby is calm and honest, perfect for a reflective mood.
+KEYWORD|sad|2|Try Lullaby—it’s soft and soothing.
+KEYWORD|sad|2|Lullaby fits the chill and emotional vibe right now.
+KEYWORD|angry|2|GO! High energy, great to burn off frustration.
+KEYWORD|angry|2|GO! is perfect to hype up and release energy.
+KEYWORD|angry|2|Try GO!—full energy and bold attitude.
+KEYWORD|happy|2|FaSHioN is playful and confident.
+KEYWORD|happy|2|JoyRide is fun and free.
+KEYWORD|happy|2|FaSHioN or JoyRide, your call!
+KEYWORD|conf|2|What You Want—built for that mindset.
+KEYWORD|conf|2|Go for What You Want, full energy and bold confidence.
+KEYWORD|conf|2|What You Want will boost your confidence.
+
